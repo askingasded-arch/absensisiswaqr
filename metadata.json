@@ -1,0 +1,7 @@
+{
+  "name": "Barcode Student Attendance",
+  "description": "A professional mobile-first student attendance application using barcode scanning. Upload Excel student lists, generate barcodes, and track attendance in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
